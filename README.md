@@ -1,3 +1,3 @@
 # wiki
 
-https://github.com/Domhwangchya/wiki.wiki.git
+https://github.com/Domhwangchya/wiki/wiki
